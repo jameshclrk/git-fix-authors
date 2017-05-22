@@ -1,0 +1,20 @@
+authors:
+    -
+        name: "Author 1"
+        email: author1@example.com
+        old_emails:
+            - authro1@example.com
+            - author1@example.co
+            - author@localhost.localdomain
+    -
+        name: "Author 2"
+        email: author2@example.com
+        old_emails:
+            - author2@example.org
+    -
+        name: "Author 3"
+        email: author3@example.com
+        old_emails:
+            - author3@host.example.com
+            - author3@exmple.com
+
